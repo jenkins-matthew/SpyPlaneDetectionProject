@@ -1,0 +1,4 @@
+Model Accuracies:
+Training Accuracy: 87.15%
+Validation Accuracy: 88.24%
+Testing Accuracy: 79.17%
